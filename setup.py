@@ -7,9 +7,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="webfpga",  
+    name="webfpga",
     version=VERSION,
-    scripts=["bin/webfpga"] ,
+    scripts=["bin/webfpga"],
     author="WebFPGA",
     author_email="support@webfpga.io",
     description="Official WebFPGA Command-line Utility",

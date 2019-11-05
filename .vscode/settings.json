@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\rmawston\\Miniconda3\\envs\\fpga\\python.exe",
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
+}
